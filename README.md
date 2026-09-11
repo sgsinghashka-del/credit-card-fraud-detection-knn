@@ -218,10 +218,9 @@ A: Use stratified splitting, adjust sample weights, or use SMOTE for synthetic o
 A: Run the k_optimization to find the optimal K. Typically between 3-15 for this dataset.
 
 **Q: Can I use this in production?**
-A: Yes, but consider preprocessing pipeline, model persistence, and real-time latency requirements.
+A: Yes, but consider the preprocessing pipeline, model persistence, and real-time latency requirements.
 
 ---
 
 **Author**: Ashka Singh  
-**Date**: 2024  
 **Status**: Active Development
